@@ -4,3 +4,4 @@ My dev website
 ![](https://komarev.com/ghpvc/?username=Mrdev88)
 ![Luna](Luna.webp)
 ![](https://github-profile-trophy.vercel.app/?username=Mrdev88)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,aws)](https://skillicons.dev)
